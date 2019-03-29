@@ -1,5 +1,7 @@
-¿Puede ver el archivo tp2_1_2.cpp? 
+Respuestas TP2 alumno Emmanuel Casal
+
+Â¿Puede ver el archivo tp2_1_2.cpp? 
 No
-¿Por qué?
-Porque volví a la rama master moviendo el apuntador HEAD hacia ésta, así se revierten los archivos del directorio de trabajo y quedan como estaban en la 
-última instantánea confirmada en la rama master. 
+Â¿Por quÃ©?
+Porque volvÃ­ a la rama master moviendo el apuntador HEAD hacia Ã©sta, asÃ­ se revierten los archivos del directorio de trabajo y quedan como estaban en la 
+Ãºltima instantÃ¡nea confirmada en la rama master. 
